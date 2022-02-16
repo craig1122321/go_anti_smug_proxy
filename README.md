@@ -1,1 +1,1 @@
-"# Go Anti Smuggling Proxy" 
+# Go Anti Smuggling Proxy 
