@@ -1,8 +1,6 @@
 package main
 
-import (
-	"anti-smuggling-proxy/api"
-)
+import "github.com/craig1122321/go_anti_smug_proxy/api"
 
 func main() {
 	router := api.InitRouter()

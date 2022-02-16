@@ -1,10 +1,11 @@
 package api
 
 import (
-	"anti-smuggling-proxy/api/service"
 	"fmt"
 	"strconv"
 	"strings"
+
+	"github.com/craig1122321/go_anti_smug_proxy/api/service"
 
 	"github.com/gin-gonic/gin"
 )
